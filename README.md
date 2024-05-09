@@ -1,2 +1,3 @@
 # Movie insight and discussion hub
-The project
+Movie_insight&discussionhub
+

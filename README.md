@@ -1,2 +1,2 @@
-# The-project
+# Movie insight and discussion hub
 The project
